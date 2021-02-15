@@ -3,11 +3,14 @@
 **1.** Which keywords are used to declare a variable in JavaScript?
 <!-- enter you answer in the space below -->
 ```
-
+let
+var
+const
 ```
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
+reusable code that runs a certain thing when invoked
 
 ```
 **3.** What are the `SOLID` principles?
@@ -22,7 +25,8 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
-
+fruit[2]
+becuase the first index starts at zeeero
 ```
 **5.** With these two objects: 
 ```js
