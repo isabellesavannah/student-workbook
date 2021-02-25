@@ -9,4 +9,4 @@ What is the difference between Parameters and Arguments?
 >Arguments:Values the function recevies
 
 What are higher order functions? Can you provide an example?
-A function that runs inside another function?
+>A function that runs inside another function?
