@@ -2,7 +2,7 @@
 
 **1.** What is the difference between `asynchronous` code and `synchronous` code?
 <!-- enter you answer in the space below -->
-```Synchronous means it will run in order, async means it will happen in the future
+``` Synchronous means it will run in order, async means it will happen in the future
 
 ```
 **2.** What is an event listener?
