@@ -50,11 +50,12 @@ req, res , next
 <!-- enter you answer in the space below -->
 ```
 NOTE
+Req and response
 
 ```
 **9.** 
 Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 <!-- enter you answer in the space below -->
 ```
-http://example/tag?winter
+http://example/?tag=winter
 ```
